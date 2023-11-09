@@ -1,9 +1,3 @@
----
-title: "\U0001F695 NYC Yellow Taxi Data Engineering Project"
-created: '2023-10-19T02:13:57.035Z'
-modified: '2023-11-09T03:47:36.868Z'
----
-
 # 🚕 NYC Yellow Taxi Data Engineering Project
 
 ## Introduction
