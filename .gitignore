@@ -1,0 +1,9 @@
+.env
+shp_to_parquet.ipynb
+taxi_zones_untrimmed.parquet
+taxi.csv
+yellow_tripdata_2020-03.parquet
+taxi_zones/
+.ipynb_checkpoints/
+dim_table_loader/
+data_pipeline.ipynb
